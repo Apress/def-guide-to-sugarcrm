@@ -1,0 +1,9 @@
+#header
+{
+    background: url(../../../../custom/themes/Sugar/images/header.jpg);
+}
+#globalLinks, #welcome, #search, #sitemapLink,
+#globalLinks a, #welcome a, #search a, #sitemapLink a
+{
+    color: white !important;
+}
